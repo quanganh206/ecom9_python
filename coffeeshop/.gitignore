@@ -1,0 +1,18 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+db.sqlite3
+.vscode/
+coffeehouse/__pycache__/
+*.py[cod]
+coffeehouse/*.py[cod]
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+.env
+db.sqlite3
